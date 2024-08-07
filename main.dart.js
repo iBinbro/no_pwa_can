@@ -23401,7 +23401,7 @@ A.aiL.prototype={
 $1(a){var s=A.dq().b
 if(s==null)s=null
 else{s=s.canvasKitBaseUrl
-if(s==null)s=null}return(s==null?"https://www.gstatic.com/flutter-canvaskit/b8800d88be4866db1b15f8b954ab2573bba9960f/":s)+a},
+if(s==null)s=null}return(s==null?"canvaskit/":s)+a},
 $S:175}
 A.aiY.prototype={
 $1(a){this.a.remove()
